@@ -1,5 +1,7 @@
 # gulp-sass-ts
 
+#### No longer used in FST
+
 Example gulp setup with SCSS and TypeScript.
 
 Configured to watch for changes in `app/js` and `app/scss`
